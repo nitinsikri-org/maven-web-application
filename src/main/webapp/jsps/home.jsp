@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Nitin Software Solutions.</h1>
-<h1 align="center"> Nitin is  teaching jenkins. Please rate him 1-5.  5 is good, depends on this he will arrange more training ahead</h1>
+<h1 align="center"> Nitin is a good teacher of jenkins. Please rate him 1-5.  5 is good, depends on this he will arrange more training ahead</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
