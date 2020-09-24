@@ -104,13 +104,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Nitin Sikri releases Nexus Repository</name>
-	      <url>http://18.232.38.150:9000/:8081/repository/walmart-devlopment/</url>
+	      <url>http://18.232.38.150:8081/repository/walmart-devlopment/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Nitin Sikri Snapshot Nexus Repository </name>
-	      <url>http://18.232.38.150:9000/:8081/repository/Snapshot_repo/</url>
+	      <url>http://18.232.38.150:8081/repository/Snapshot_repo/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
